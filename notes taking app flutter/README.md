@@ -1,4 +1,4 @@
-# Note Taking App made in Flutter with Sqlite database 
+# Note Taking App 
 
 Screenshots:<br>
 <table style={border:"none"}><tr>

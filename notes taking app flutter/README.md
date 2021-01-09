@@ -1,13 +1,5 @@
 # Note Taking App made in Flutter with Sqlite database 
- This is a note taking app made with flutter.<br>
-## Concepts used:
-<ul>
-<li>Sqlite database to store custom Note object.</li>
-<li>Search Functionality</li>
-<li>Staggered GridView</li>
-</ul>
 
-Video Demo: https://www.youtube.com/watch?v=Fg68VND8unE <br><br>
 Screenshots:<br>
 <table style={border:"none"}><tr>
 <td><img src="https://user-images.githubusercontent.com/29589003/57538958-2ae63100-7369-11e9-9efc-102497249cdd.png" alt="Screenshot 2"/></td>
